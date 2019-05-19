@@ -47,4 +47,4 @@ Read on to begin your Getting Started journey with Oracle Cloud Developer Image.
 
 
 ### Once you have successfully provisioned Oracle Cloud Developer Image click below to navigate to Mastering DevOps in the Oracle Cloud
-<a class=“trial-link” href="https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ex:tb:::RC_NAMK181011P00041:ATPHOL&SC=:ex:tb:::RC_NAMK181011P00041:ATPHOL&pcode=NAMK181011P00041" target="_trial">Mastering DevOps in the Oracle Cloud</a>
+<a class=“trial-link” href="https://oracle.github.io/learning-library/workshops/autonomous-transaction-processing/?page=LabGuide1000AppDev.md" target="_trial">Mastering DevOps in the Oracle Cloud</a>
