@@ -1,6 +1,6 @@
 <table class="tbl-heading"><tr><td class="td-logo">[![](images/obe_tag.png)](README.md)
 
-Last Updated:<br>November 08, 2018
+Last Updated:<br>May 19, 2019
 </td>
 <td class="td-banner">
 # Getting Started with Oracle Cloud Developer Image
@@ -11,6 +11,7 @@ This workshop walks you through all the steps to get started using the **Oracle 
 
 ## Goals for this workshop
 
+- Create Virtual Cloud Network
 - Provision an Oracle Cloud Developer Image
 
 # How to Get Your Free Cloud Trial Account
@@ -45,5 +46,5 @@ Read on to begin your Getting Started journey with Oracle Cloud Developer Image.
 
 
 
-## Once you have successfully provisioned Oracle Cloud Developer Image click below to navigate to Mastering DevOps in the Oracle Cloud
+### Once you have successfully provisioned Oracle Cloud Developer Image click below to navigate to Mastering DevOps in the Oracle Cloud
 <a class=“trial-link” href="https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ex:tb:::RC_NAMK181011P00041:ATPHOL&SC=:ex:tb:::RC_NAMK181011P00041:ATPHOL&pcode=NAMK181011P00041" target="_trial">Mastering DevOps in the Oracle Cloud</a>
